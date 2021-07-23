@@ -5,10 +5,13 @@ Mediante oq foi apresentado até agora, criem um repositório no github e postem
 O resrultado da data e hora: 
 
 ![data e hora](https://github.com/GlauberFerreiraAngelo/API_data_e_hora/blob/main/imagens/pelaAplicacao.png) <br />
+![Code 400](https://github.com/GlauberFerreiraAngelo/API_data_e_hora/blob/main/imagens/code%20400.png) <br />
+
 
 O resrultado da data e hora pelo Docker: <br />
 
 ![data e hora pelo Docker](https://github.com/GlauberFerreiraAngelo/API_data_e_hora/blob/main/imagens/peloDocker.png) <br />
+![Code 400 Docker](https://github.com/GlauberFerreiraAngelo/API_data_e_hora/blob/main/imagens/code%20400%20docker.png) <br />
 
 outro método retorna lista de nomes e idades: <br />
 ![Nome e idade](https://github.com/GlauberFerreiraAngelo/API_data_e_hora/blob/main/imagens/nome%20e%20idade.png) <br />
