@@ -8,4 +8,8 @@ O resrultado da data e hora:
 
 O resrultado da data e hora pelo Docker: <br />
 
-![data e hora](https://github.com/GlauberFerreiraAngelo/API_data_e_hora/blob/main/imagens/pelaAplicacao.png) <br />
+![data e hora pelo Docker](https://github.com/GlauberFerreiraAngelo/API_data_e_hora/blob/main/imagens/peloDocker.png) <br />
+
+outro método retorna lista de nomes e idades: <br />
+![Nome e idade](https://github.com/GlauberFerreiraAngelo/API_data_e_hora/blob/main/imagens/nome%20e%20idade.png) <br />
+
